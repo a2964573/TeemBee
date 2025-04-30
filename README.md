@@ -6,6 +6,6 @@
 * CSS
 * JavaScript
 ---
-### Introduce
+## Introduce
 ##### 여러 직업에 대한 정보를 공유할 수 있는 정적 웹페이지입니다
 ###### It's a static web page where you can share information about different jobs
