@@ -1,2 +1,11 @@
-# -PJ-TeemBee
-ì‹ ì•ˆì‚°ëŒ€í•™êµ ì»´í“¨í„°ì •ë³´ê³¼ 2í•™ë…„ ìº¡ìŠ¤í†¤ë””ìì¸ ê³¼ì œ - ì§ì—…ì •ë³´ê³µìœ ì›¹
+# Project TeemBee
+### ½Å¾È»ê´ëÇĞ±³ ÄÄÇ»ÅÍÁ¤º¸°ú 2ÇĞ³â Ä¸½ºÅæµğÀÚÀÎ °úÁ¦ - Á÷¾÷Á¤º¸°øÀ¯ À¥
+##### 2nd Grade Computer Information Department Capstone Design Task - Job Information Sharing Web
+---
+* HTML
+* CSS
+* JavaScript
+---
+### Introduce
+##### ¿©·¯ Á÷¾÷¿¡ ´ëÇÑ Á¤º¸¸¦ °øÀ¯ÇÒ ¼ö ÀÖ´Â Á¤Àû À¥ÆäÀÌÁöÀÔ´Ï´Ù
+###### It's a static web page where you can share information about different jobs
